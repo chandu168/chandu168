@@ -10,11 +10,11 @@
 
 - 📫 How to reach me **hb6668@srmist.edu.in**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/u/0/my-drive](https://drive.google.com/drive/u/0/my-drive)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1q5JR0AaJk12PzrWnP1EbxaCFRCg7gbY2/view?usp=sharing](https://drive.google.com/drive/u/0/my-drive)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/chandu@chinu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chandu@chinu" height="30" width="40" /></a>
+<a href="https://twitter.com/Chandu16chinu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="chandu@chinu" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/hemachandu-naidu-b-v-987659210/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hemachandu naidu.b.v" height="30" width="40" /></a>
 </p>
 
