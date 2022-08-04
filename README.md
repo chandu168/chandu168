@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm Hemachandu Naidu B V</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandu168&label=Profile%20views&color=0e75b6&style=flat" alt="chandu168" /> </p>
 
-<p align="left"> <a href="https://twitter.com/chandu@chinu" target="blank"><img src="https://img.shields.io/twitter/follow/Chandu@chinu?logo=twitter&style=for-the-badge" alt="chandu@chinu" /></a> </p>
 
 - 👀 I’m interested in **Ethical Hacking & Artificial intelligence**
 
 - 🌱 I’m currently learning **Ethical Hacking & Python**
 
 - 👯 I’m looking to collaborate on **Ethical Hacking**
-
-- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/hemachandu-naidu-b-v-987659210/](https://www.linkedin.com/in/hemachandu-naidu-b-v-987659210/)
 
 - 📫 How to reach me **hb6668@srmist.edu.in**
 
