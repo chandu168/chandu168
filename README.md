@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hemachandu Naidu B V</h1>
+<h2 align="center">Call me Chandu</h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandu168&label=Profile%20views&color=0e75b6&style=flat" alt="chandu168" /> </p>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/50/83/e0/5083e0a2a7dcaae07c142e8b87036a27.gif">
 
